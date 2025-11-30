@@ -1,0 +1,61 @@
+apple|a red or green fruit
+banana|a long yellow fruit
+orange|a round citrus fruit
+grapes|small purple or green fruits
+mango|a sweet tropical fruit
+peach|a soft fruit with fuzzy skin
+cherry|a small red fruit with a pit
+lemon|a sour yellow citrus fruit
+watermelon|a large green fruit with red inside
+pineapple|a tropical fruit with spiky skin
+coffee|a drink made from roasted beans
+chocolate|a sweet brown treat
+pizza|an italian dish with cheese and toppings
+burger|a sandwich with meat patty
+pasta|italian noodles
+sandwich|food made with two slices of bread
+chicken|a common white meat
+computer|an electronic device for processing data
+keyboard|device used to type text
+mouse|hand device used to control cursor
+monitor|screen that shows images
+program|set of instructions for a computer
+assembly|a low level programming language
+memory|stores data temporarily
+register|small fast storage inside cpu
+network|a group of connected computers
+server|device that provides services to clients
+student|person who studies at school or college
+teacher|person who teaches
+biology|science of living things
+physics|science of matter and energy
+guitar|musical instrument with strings
+piano|keyboard musical instrument
+football|popular sport played with a ball
+tennis|sport played with rackets
+egypt|a country in north africa
+cairo|capital city of egypt
+desert|dry land with little rain
+river|a long flowing stream of water
+planet|a large body orbiting a star
+mountain|very high landform
+forest|large area filled with trees
+tiger|large striped wild cat
+lion|big wild cat called king of jungle
+eagle|large bird with strong vision
+shark|large ocean predator
+robot|machine that can perform tasks
+machine|device that uses power to work
+battery|device that stores electrical energy
+energy|ability to do work
+summer|hot season of the year
+winter|cold season of the year
+rain|water falling from clouds
+storm|very strong weather
+cloud|visible mass of water droplets in sky
+happy|a positive emotion
+friend|person you care about
+family|group of related people
+dream|thoughts during sleep
+travel|to go from one place to another
+world|the earth and all its places
